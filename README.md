@@ -8,3 +8,4 @@ including radiometric calibration (including in situ radiometric calibration), a
 references:
 https://www.nature.com/articles/s41467-022-30807-5#Sec8
 
+本模型暂时不含热校正过程！
